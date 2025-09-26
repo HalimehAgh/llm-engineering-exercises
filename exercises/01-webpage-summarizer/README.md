@@ -1,6 +1,6 @@
 # 01 - Webpage Summarizer
 
-Short description: Scrapes a URL and summarizes its content using OpenAI LLM.
+Scrapes a URL and summarizes its content using OpenAI LLM.
 
 ## Quickstart
 
