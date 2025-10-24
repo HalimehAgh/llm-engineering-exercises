@@ -1,0 +1,19 @@
+# Core libraries
+transformers>=4.36.0
+torch>=2.0.0
+datasets>=2.14.0
+
+# Hugging Face
+huggingface-hub>=0.19.0
+accelerate>=0.25.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# UI
+gradio>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
