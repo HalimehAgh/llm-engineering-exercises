@@ -1,0 +1,13 @@
+python-dotenv
+gradio
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+tiktoken
+faiss-cpu
